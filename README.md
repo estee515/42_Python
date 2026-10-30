@@ -1,15 +1,2 @@
-# 42_Python
-# #!/opt/pyenv/shims/python3
-# love notes from Elise
-1. Go to github and create a new repo.
-2. Login + clone repository in VSCode.
-3. Open terminal (ctrl + `) 
-4. C + v instructions from github
-5. git add .
-6. git commit -m "update module7"
-7. git push origin main
-
-debug commit error:
-1. git pull --rebase origin main
-2. git push origin main
+Repo for 42_Python SG 26 - 30 Oct 2026
 
