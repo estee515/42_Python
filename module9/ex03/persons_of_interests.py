@@ -1,6 +1,6 @@
 #!/opt/pyenv/shims/python3
 
-ef famous_births(names: dict[str, dict[str, str | int]]) -> None:
+def famous_births(names: dict[str, dict[str, str | int]]) -> None:
     # 1. Safely extract valid records using a list comprehension
     valid_scientists = [
         info for info in names.values()
